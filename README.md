@@ -2,9 +2,6 @@
 
 This project implements various ML algorithms for mango classification.
 
-## Contents
-# CS471 Final Project - Mango Classification System
-
 ## Overview
 This project implements a comprehensive machine learning system for classifying mangoes based on their ripeness levels using computer vision and various ML algorithms. Developed as the final project for CS471 (Artificial Intelligence) at CSU San Marcos.
 
